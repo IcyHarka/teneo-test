@@ -1,5 +1,5 @@
 
-# Odsustvo Tracker Aplikacija
+# Absence Tracker Aplikacija
 
 Ova aplikacija je napravljena koristeci Laravel za backend i Vue.js za frontend. Cilj aplikacije je omoguciti registraciju i pregled odsustva radnika.
 
